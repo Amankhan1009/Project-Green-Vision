@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 artifact
 .idea
+"notebooks/rf_classifier.pkl" 
+"notebooks/rf_classifier.pkl" 
