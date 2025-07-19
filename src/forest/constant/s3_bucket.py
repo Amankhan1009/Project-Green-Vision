@@ -1,0 +1,3 @@
+TRAINING_BUCKET_NAME="amanforest"
+PREDICTION_BUCKET_NAME="amanforestpre"
+
