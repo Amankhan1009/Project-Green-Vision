@@ -36,9 +36,6 @@
 
 ![Screenshot](snippets/snip4.png)
 
-![Screenshot](snippets/snip5.png)
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Data Understanding</b>
-
 The dataset used to predict stroke is a dataset from Kaggle. This dataset has been used to predict student performance with  different model algorithms. This dataset has:
 - 581012 samples or rows
 - 55 features or columns 
